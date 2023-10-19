@@ -1,0 +1,199 @@
+[
+  {
+    "publishDate": "2022-10-02",
+    "version": "0.14.0",
+    "changes": [
+      {
+        "type": "maint",
+        "description": "Update dependencies",
+        "pullRequest": 18
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-08-28",
+    "version": "0.13.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added `queryWorkItems`",
+        "pullRequest": 17
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-06-14",
+    "version": "0.12.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added validation utils `getValidationCountByPattern`, `getValidationCount`, `useValidation`",
+        "pullRequest": 16
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-05-17",
+    "version": "0.11.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added validation utils based on yup; `parseValidationError`, `getCombined`, `hasError`",
+        "pullRequest": 14
+      },
+      {
+        "type": "feature",
+        "description": "Added `capitalizeFirstLetter`",
+        "pullRequest": 14
+      },
+      {
+        "type": "maint",
+        "description": "Update dependencies",
+        "pullRequest": 14
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-04-26",
+    "version": "0.10.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added `getWorkItemState`",
+        "pullRequest": 13
+      },
+      {
+        "type": "feature",
+        "description": "Added `WorkItemStateDisplay`",
+        "pullRequest": 13
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-04-20",
+    "version": "0.9.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Add ability to return url with org from HostUtils",
+        "pullRequest": 12
+      },
+      {
+        "type": "maint",
+        "description": "Update dependencies",
+        "pullRequest": 12
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-03-31",
+    "version": "0.8.0",
+    "changes": [
+      {
+        "type": "fix",
+        "description": "Removed `font-family` override from container mixin",
+        "pullRequest": 11
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-03-31",
+    "version": "0.7.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added `ExtendedWikiRestClient`"
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-03-29",
+    "version": "0.6.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added wrapper class props to `PanelWrapper`",
+        "pullRequest": 9
+      },
+      {
+        "type": "maint",
+        "description": "Update dependencies",
+        "pullRequest": 9
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-03-20",
+    "version": "0.5.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Change package build mode",
+        "pullRequest": 8
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-03-19",
+    "version": "0.4.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added `ExtensionPeoplePickerProvider` that will load avatar urls correctly",
+        "pullRequest": 7
+      },
+      {
+        "type": "feature",
+        "description": "Added `getHostUrl` to get the correct host url",
+        "pullRequest": 7
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-02-25",
+    "version": "0.3.0",
+    "changes": [
+      {
+        "type": "feature",
+        "description": "Added `showDialog` to show custom dialog",
+        "pullRequest": 5
+      },
+      {
+        "type": "feature",
+        "description": "Added additional parameters to get work item methods",
+        "pullRequest": 5
+      },
+      {
+        "type": "fix",
+        "description": "Fixed static title in `ExtendedZeroData`",
+        "pullRequest": 5
+      },
+      {
+        "type": "feature",
+        "description": "Added `title` and `description` to `ExtendedZeroData`",
+        "pullRequest": 5
+      },
+      {
+        "type": "enhancement",
+        "description": "Refactored imports and moved away from barrel imports"
+      }
+    ]
+  },
+  {
+    "publishDate": "2022-02-08",
+    "version": "0.2.0",
+    "changes": [{ "type": "feature", "description": "Added more components", "pullRequest": 2 }]
+  },
+  {
+    "publishDate": "2022-01-18",
+    "version": "0.1.0",
+    "sections": {
+      "summary": [
+        {
+          "type": "text",
+          "content": "Initial release"
+        }
+      ]
+    }
+  }
+]

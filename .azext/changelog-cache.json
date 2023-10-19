@@ -1,0 +1,89 @@
+{
+  "issues": [],
+  "pullRequests": [
+    {
+      "id": 1073758735,
+      "number": 18,
+      "submitter": "johnnie88",
+      "title": "Update dependencies",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/18"
+    },
+    {
+      "id": 1038847315,
+      "number": 17,
+      "submitter": "johnnie88",
+      "title": "Add wiql query",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/17"
+    },
+    {
+      "id": 967096435,
+      "number": 16,
+      "submitter": "johnnie88",
+      "title": "Add more validation utils",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/16"
+    },
+    {
+      "id": 938799038,
+      "number": 14,
+      "submitter": "johnnie88",
+      "title": "Add new string and validation utils",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/14"
+    },
+    {
+      "id": 919666054,
+      "number": 13,
+      "submitter": "johnnie88",
+      "title": "Add work item state display",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/13"
+    },
+    {
+      "id": 913350594,
+      "number": 12,
+      "submitter": "johnnie88",
+      "title": "Add ability to get base url with organization name",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/12"
+    },
+    {
+      "id": 896253380,
+      "number": 11,
+      "submitter": "johnnie88",
+      "title": "Remove font-family override",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/11"
+    },
+    {
+      "id": 893239125,
+      "number": 9,
+      "submitter": "johnnie88",
+      "title": "Add panel wrapper class props",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/9"
+    },
+    {
+      "id": 884155186,
+      "number": 8,
+      "submitter": "johnnie88",
+      "title": "Change package mode",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/8"
+    },
+    {
+      "id": 883954954,
+      "number": 7,
+      "submitter": "johnnie88",
+      "title": "Add custom people picker",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/7"
+    },
+    {
+      "id": 850435540,
+      "number": 5,
+      "submitter": "johnnie88",
+      "title": "Updates",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/5"
+    },
+    {
+      "id": 842996529,
+      "number": 2,
+      "submitter": "johnnie88",
+      "title": "Additional components",
+      "url": "https://github.com/johnnie88/dev-pkg-core/pull/2"
+    }
+  ]
+}
